@@ -241,8 +241,6 @@ void *client_thread_handling(void *arg) {
 }
 
 
-
-
 // will get first free thread available
 int get_first_free_thread()  {
     for(int i=0;i<max_number_streams;i++){
@@ -252,7 +250,6 @@ int get_first_free_thread()  {
     }
     return -1;
 }
-
 
 
 int main(int argc, char * argv[]){
