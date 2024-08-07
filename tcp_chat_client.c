@@ -1,3 +1,8 @@
+/**
+Author: Sasi Kumar Reddy
+Client program: Stream-chat Client
+**/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <netinet/in.h>
@@ -11,11 +16,6 @@
 #define BUFFER_SIZE 1024
 #define SERVER_IP "127.0.0.1"
 
-/**
- * CS3205 Assignment 2
- * Summary:
- * This file contains the code to run a chatroom client.
- */
 
 // Global variables
 
