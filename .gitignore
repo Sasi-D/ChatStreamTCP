@@ -1,0 +1,4 @@
+# including pdf, images, html etc... all trivial files
+*.pdf
+*.png
+*.jpg
